@@ -1,16 +1,6 @@
-# flavor31_main
+# Account Manager
 
-A new Flutter project.
+Flexible C++ program manages customized bank accounts
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Summary
+I developed a comprehensive bank account management program using C++ that allows users to create various account types and perform transactions like deposits and withdrawals. Our program calculates interest rates based on credit scores that the user sets, and I utilized C++ pointers and user-defined operators to enhance flexibility and optimize running time.
